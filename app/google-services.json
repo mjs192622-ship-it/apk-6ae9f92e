@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "414850245731",
+        "firebase_url": "https://santa-rosa-app-8063f-default-rtdb.firebaseio.com",
+        "project_id": "santa-rosa-app-8063f",
+        "storage_bucket": "santa-rosa-app-8063f.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:414850245731:android:2801259b4e1b5e92be8456",
+                "android_client_info": {
+                    "package_name": "com.santarosaapp.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "414850245731-fv22g84v1cj4dfpasc65ililtqd7gl0j.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDvj_H6ieNLkzskA8mA-i2nQALUWC26Gbk"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "414850245731-fv22g84v1cj4dfpasc65ililtqd7gl0j.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
